@@ -1,0 +1,15 @@
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\bin\Debug\net6.0\OpenClose.exe
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\bin\Debug\net6.0\OpenClose.deps.json
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\bin\Debug\net6.0\OpenClose.runtimeconfig.json
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\bin\Debug\net6.0\OpenClose.dll
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\bin\Debug\net6.0\ref\OpenClose.dll
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\bin\Debug\net6.0\OpenClose.pdb
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\obj\Debug\net6.0\OpenClose.csproj.AssemblyReference.cache
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\obj\Debug\net6.0\OpenClose.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\obj\Debug\net6.0\OpenClose.AssemblyInfoInputs.cache
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\obj\Debug\net6.0\OpenClose.AssemblyInfo.cs
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\obj\Debug\net6.0\OpenClose.csproj.CoreCompileInputs.cache
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\obj\Debug\net6.0\OpenClose.dll
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\obj\Debug\net6.0\ref\OpenClose.dll
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\obj\Debug\net6.0\OpenClose.pdb
+C:\Users\EdenP\OneDrive - Provoke Solutions (Group)\Documents\JavaScriptPlayground\OpenClose\obj\Debug\net6.0\OpenClose.genruntimeconfig.cache
