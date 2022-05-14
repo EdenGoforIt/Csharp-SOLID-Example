@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b32d32d9-abe6-445f-9116-a8c2da8068c5": {
+      "ProjectGuid": "b32d32d9-abe6-445f-9116-a8c2da8068c5",
+      "DisplayName": "InterfaceSegregation",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

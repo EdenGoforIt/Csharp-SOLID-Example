@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "278c6cdb-50f4-4fce-95c6-15b1def12cee": {
+      "ProjectGuid": "278c6cdb-50f4-4fce-95c6-15b1def12cee",
+      "DisplayName": "LiskovSubstititionPrinciple",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

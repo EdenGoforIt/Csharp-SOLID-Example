@@ -1,0 +1,15 @@
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\obj\Debug\net6.0\LiskovSubstititionPrinciple.csproj.AssemblyReference.cache
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\obj\Debug\net6.0\LiskovSubstititionPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\obj\Debug\net6.0\LiskovSubstititionPrinciple.AssemblyInfoInputs.cache
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\obj\Debug\net6.0\LiskovSubstititionPrinciple.AssemblyInfo.cs
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\obj\Debug\net6.0\LiskovSubstititionPrinciple.csproj.CoreCompileInputs.cache
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\bin\Debug\net6.0\LiskovSubstititionPrinciple.exe
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\bin\Debug\net6.0\LiskovSubstititionPrinciple.deps.json
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\bin\Debug\net6.0\LiskovSubstititionPrinciple.runtimeconfig.json
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\bin\Debug\net6.0\LiskovSubstititionPrinciple.dll
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\bin\Debug\net6.0\ref\LiskovSubstititionPrinciple.dll
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\bin\Debug\net6.0\LiskovSubstititionPrinciple.pdb
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\obj\Debug\net6.0\LiskovSubstititionPrinciple.dll
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\obj\Debug\net6.0\ref\LiskovSubstititionPrinciple.dll
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\obj\Debug\net6.0\LiskovSubstititionPrinciple.pdb
+C:\Users\EdenP\Desktop\Resources\SOLID\LiskovSubstititionPrinciple\obj\Debug\net6.0\LiskovSubstititionPrinciple.genruntimeconfig.cache
